@@ -1,0 +1,22 @@
+{
+  "name": "first-command-used-dm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knocklive/first-command-used-dm.git"
+  },
+  "author": "Knocklive.de",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Knocklive/first-command-used-dm/issues"
+  },
+  "homepage": "https://github.com/Knocklive/first-command-used-dm#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
